@@ -1,0 +1,6 @@
+Country,City,State_Or_Province,Lat,Long,Altitude
+Cape Verde,Espargos,Sal,16.7560,-22.9386,not_an_altitude
+India,Bangalore,Karnataka,cant_cast_me,77.5946,900
+Japan,Kyoto,Kyoto,35.0116,a_string,1000.0
+Morocco,Casablanca,Casablanca-Settat,not_a_latitude,7.5898,57.0
+Senegal,Kaolack,Kaolack,14.1652,not_a_longitude,6.0

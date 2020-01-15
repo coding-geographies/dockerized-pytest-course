@@ -1,0 +1,181 @@
+Country,City,State_Or_Province,Lat,Long,Altitude
+Andorra,Andorra la Vella,Andorra la Vella,42.5063,1.5218,1023.0
+Andorra,Canillo,Canillo,42.5978,1.6566,1530.0
+Andorra,El Tarter,Canillo,42.5801,1.6512,2640.0
+Andorra,Els Plans,Canillo,42.5811,1.6332,1725.0
+Andorra,Escaldes-Engordany,Escaldes-Engordany,42.5101,1.5388,1053.0
+Andorra,Ordino,Ordino,42.5557,1.5331,1980.90
+Andorra,Sornàs,Ordino,42.5649,1.5274,1538.021
+Angola,Luanda,Luanda,-8.838333,13.234444,6.0
+Argentina,Buenos Aires,Buenos Aires,-34.6037,-58.3816,82.0
+Argentina,Córdoba,Córdoba,-31.4201,-64.1888,450.0
+Argentina,Mar del Plata,Buenos Aires,-38.0055,-57.5426,125.0
+Argentina,Salta,Salta,-24.7821,-65.4232,1152.0
+Argentina,Ushuaia,Tierra del Fuego,-54.8019,-68.3030,57.0
+Belize,Belize City,Belize,17.49952,-88.19756,0.0
+Canada,Burnaby,British Columbia,49.26636,-122.95263,370.0
+Canada,Calgary,Alberta,51.05011,-114.08529,1048.0
+Canada,Corner Brook,Newfoundland and Labrador,48.9490,-57.9503,304.0
+Canada,Edmonton,Alberta,53.55014,-113.46871,645.0
+Canada,Fredericton,New Brunswick,45.9636,-66.6431,17.0
+Canada,Iqaluit,Nunavut,63.7467,-68.5170,386.18
+Canada,Mississauga,Ontario,43.5789,-79.6583,156.0
+Canada,Moncton,New Brunswick,46.0878,-64.7782,71.0
+Canada,Montreal,Québec,45.50884,-73.58781,124.0
+Canada,Mount Pearl,Newfoundland and Labrador,47.5206,-52.8077,100.58
+Canada,Ottawa,Ontario,45.41117,-75.69812,166.0
+Canada,Québec,Québec,46.8139,-71.2080,98.0
+Canada,Saint John,New Brunswick,45.2733,-66.0633,80.8
+Canada,Saskatoon,Saskatchewan,52.11679,-106.63452,481.5
+Canada,St. John's,Newfoundland and Labrador,47.5615,-52.7126,35.0
+Canada,Surrey,British Columbia,49.10635,-122.82509,134.0
+Canada,Toronto,Ontario,43.70011,-79.4163,76.5
+Canada,Vancouver,British Columbia,49.24966,-123.11934,152.0
+Canada,Winnipeg,Manitoba,49.8844,-97.14704,240.0
+Canada,Yellowknife,Northwest Territories,62.456,-114.35255,246.0
+Cape Verde,Assomada,Santa Catarina,15.0988,-23.6711,550.0
+Cape Verde,Espargos,Sal,16.7560,-22.9386,109.0
+Cape Verde,Mindelo,São Vicente,16.8765,-24.9813,44.0
+Cape Verde,Pedra Badejo,Santa Cruz,15.1357,-23.5342,35.0
+Cape Verde,Porto Novo,Porto Novo,17.0215,-25.0674,1979.0
+Cape Verde,Praia,Praia,14.9315,-23.5125,2829.0
+Cape Verde,São Filipe,São Filipe,14.8961,-24.49556,20.0
+Cape Verde,Tarrafal,Tarrafal,15.2761,-23.7484,434.04
+Cote d'Ivore,Abidjan,Abidjan,5.30966,-4.01266,1752.0
+Democratic Republic of the Congo,Kinshasa,Kinshasa,-4.322447,15.307045,240.0
+Denmark,Aalborg,Aalborg,57.0488,9.9217,5.0
+Denmark,Aarhus,Aarhus,56.1629,10.2039,128.0
+Denmark,Copenhagen,Frederiksberg,55.676098,12.568337,9.0
+Denmark,Esbjerg,Esbjerg,55.4765,8.4594,25.0
+Denmark,Herning,Herning,56.1386,8.9673,58.0
+Denmark,Odense,Funen,55.3959389,10.3883104,15.0
+Denmark,Randers,Randers,56.4606,10.0365,56.0
+Dominica,Roseau,Saint George,15.3017397,-61.3880806,43.0
+Egypt,Alexandria,Alexandria,31.21564,29.95527,12.0
+Egypt,Cairo,Cairo,30.06263,31.24967,23.0
+Egypt,El Mahalla El Kubra,Gharbia,30.9697,31.1681,26.0
+Egypt,Giza,Giza,30.0131,31.2089,19.0
+Egypt,Luxor,Luxor,25.6872,32.6396,76.0
+Egypt,Mansoura,Dakahlia,31.0409,31.3785,12.0
+Egypt,Port Said,Port Said,31.2653,32.3019,3.0
+Egypt,Shubra El Kheima,Qalyubia,30.1234,31.2609,16.0
+Egypt,Suez,Suez,29.9668,32.5498,5.0
+Egypt,Tanta,Gharbia,30.7865,31.0004,12.0
+Ethiopia,Addis Ababa,Oromia,9.005401,38.763611,2355.0
+Germany,Bayreuth,Bavaria,49.9456,11.5713,340.0
+Germany,Berlin,Brandenburg,52.5200,13.4050,70.0
+Germany,Bremen,Bremen,53.0793,8.8017,12.0
+Germany,Hamburg,Lower Saxony,53.57532,10.01534,116.2
+Germany,Hannover,Lower Saxony,52.3759,9.7320,180.0
+Germany,Mainz,Rhineland-Palatinate,49.9929,8.2473,85.0
+Germany,Munich,Bavaria,48.20,11.48,447
+Germany,Nuernberg,Bavaria,49.4521,11.0767,302.0
+Germany,Potsdam,Brandenburg,52.3906,13.0645,32.0
+Germany,Rostock,Mecklenburg-Vorpommern,54.0924,12.0991,13.0
+Greece,Athens,Attica,37.9838,23.7275,338.0
+Greece,Cape Sounio,Sounio,37.6504,24.0271,60.0
+Greece,Delphi,Delphi,38.4801,22.4941,632.0
+Greece,Hydra,Attica,37.3288,23.4717,600.0
+Greece,Kalamata,Peloponnese,37.0366,22.1144,8.0
+Greece,Knossos,Heraklion,35.2985,25.1596,85.0
+Greece,Patras,Achaea,38.2466,21.7346,3.0
+Greece,Rhodes,South Aegean,36.4350,28.2175,1216.0
+Greece,Spetses,Attica,37.2626,23.1322,300.0
+Greece,Thessaloniki,Central Macedonia,40.6401,22.9444,250.0
+India,Ahmedabad,Gujarat,23.0225,72.5714,174.0
+India,Bangalore,Karnataka,12.9716,77.5946,900
+India,Chennai,Tamil Nadu,13.0827,80.2707,6.7
+India,Delhi,Delhi,28.7041,77.1025,216
+India,Hyderabad,Telangana,17.3850,78.4867,542
+India,Jaipur,Rajasthan,26.9124,75.7873,431
+India,Kolkata,West Bengal,22.5726,88.3639,9.14
+India,Mumbai,Maharashtra,19.0760,72.8777,14
+India,Pune,Maharashtra,18.5204,73.8567,560
+India,Surat,Gujarat,21.1702,72.8311,13
+Jakarta,Jakarta,Indonesia,-6.2088,106.8456,8.0
+Jamaica,Kingston,Kingston,18.0179,76.8099,9.0
+Jamaica,Linstead,Saint Catherine,18.1403,77.0449,121.0
+Jamaica,Mandeville,Manchester,18.0313,77.5046,628.0
+Jamaica,May Pen,Clarendon,17.9646,77.2434,2256.0
+Jamaica,Montego Bay,Saint James,18.4762,77.8939,12.0
+Jamaica,Ocho Rios,Saint Ann,18.4074,77.1031,2256.0
+Jamaica,Old Harbour,Saint Catherine,17.9411,77.1082,1.0
+Jamaica,Port Antonio,Portland,18.1713,76.4476,14.0
+Jamaica,Portmore,Saint Catherine,17.9611,76.8894,16.0
+Jamaica,Savanna-la-Mar,Westmoreland,18.2292,78.1393,5.0
+Jamaica,Spanish Town,Saint Catherine,18.0167,76.9748,31.0
+Japan,Fukuoka,Fukuoka,33.5902,130.4017,597.0
+Japan,Kawasaki,Kanagawa,35.5308,139.7029,1.0
+Japan,Kobe,Hyōgo,34.6901,135.1956,35.0
+Japan,Kyoto,Kyoto,35.0116,135.7681,1000.0
+Japan,Nagoya,Aichi,35.1815,136.9066,56.0
+Japan,Osaka,Osaka,34.6937,135.5023,83.0
+Japan,Saitama,Saitama,35.8616,139.6455,13.11
+Japan,Sapporo,Hokkaidō,43.0618,141.3545,29.0
+Japan,Shizuoka,Shizuoka Prefecture,34.9756,138.3827,3193.0
+Japan,Tokyo,Tokyo,35.6762,139.6503,40.0
+Japan,Yokohama,Kanagawa,35.4437,139.6380,43.0
+Lesotho,Butha-Buthe,Butha-Buthe,-28.7654,28.2468,1800.0
+Lesotho,Hlotse,Leribe,-28.8638,28.0479,1532.84
+Lesotho,Mafeteng,Mafeteng,-29.82299,27.23744,1500.0
+Lesotho,Maputsoe,Leribe,-28.8954,27.9073,1620.93
+Lesotho,Maseru,Maseru,-29.3151,27.4869,1400.0
+Lesotho,Mohale's Hoek,Mohale's Hoek,-30.1426,27.4674,1800.0
+Lesotho,Mokhotlong,Mokhotlong,-29.2876,29.0605,2512.0
+Lesotho,Qacha's Nek,Qacha's Nek,-30.1115,28.6790,1981.0
+Lesotho,Quthing,Quthing,-30.3246,28.0186,1500.0
+Lesotho,Teyateyaneng,Berea,-29.1396,27.7491,1600.0
+Lesotho,Thaba-Tseka,Thaba-Tseka,-29.5239,28.6090,2200.0
+Morocco,Casablanca,Casablanca-Settat,33.5731,7.5898,57.0
+Morocco,Fez,Fès-Meknès,34.0181,5.0078,410.0
+Morocco,Kenitra,Rabat-Salé-Kénitra,34.2541,6.5890,26.0
+Morocco,Marrakesh,Marrakesh-Safi,31.6295,-7.9811,466.0
+Morocco,Meknes,Fès-Meknès,33.8730,5.5407,546.0
+Morocco,Oujda,Oriental,34.6820,1.9002,450.0
+Morocco,Rabat,Rabat-Salé-Kénitra,33.9716,6.8498,79.0
+Morocco,Salé,Rabat-Salé-Kénitra,34.0337,6.7708,115.0
+Morocco,Tanger,Tanger-Tetouan-Al Hoceima,35.7595,5.8340,230.0
+Nairobi,Kenya,Nairobi,-1.28333,36.81667,1795.0
+Nepal,Bharatpur,Chitwan,27.2152,77.5030,208.0
+Nepal,Biratnagar,Morang,26.4525,87.2718,80.0
+Nepal,Birganj,Parsa,27.0449,84.8672,92.0
+Nepal,Kathmandu,Kathmandu,27.7172,85.3240,1400.0
+Nepal,Lalitpur,Lalitpur,27.6588,85.3247,2300.0
+Nepal,Pokhara,Kaski,28.2096,83.9856,1740.0
+Peru,Arequipa,Arequipa,-16.4090,-71.5375,2328.0
+Peru,Lima,Lima,12.04318,-77.02824,154.0
+Senegal,Dakar,Dakar,14.7167,17.4677,72.0
+Senegal,Diourbel,Diourbel,14.6561,-16.2346,14.0
+Senegal,Kaolack,Kaolack,14.1652,-16.0758,6.0
+Senegal,Louga,Louga,15.6142,-16.2287,45.0
+Senegal,M'Bour,Thiès,14.4228,-16.9654,14.0
+Senegal,Rufisque,Dakar,14.7155,-17.2709,14.0
+Senegal,Saint-Louis,Saint-Louis,16.0326,-16.4818,3.0
+Senegal,Thiès,Thiès,14.7910,-16.9359,25.0
+Senegal,Touba,Diourbel,14.8666,-15.8995,35.0
+Senegal,Ziguinchor,Ziguinchor,12.5641,-16.2640,12.0
+Singapore,Singapore,Singapore,1.290270,103.851959,165.0
+South Africa,Johannesburg,Gauteng,-26.205681,28.046822,1753.0
+Tanzania,Dar es Salaam,DSM,-6.821000,39.276505,24.0
+Thailand,Bangkok,Bangkok,13.75398,100.50144,1.5
+Thailand,Chaophraya Surasak,Chonburi,13.0728,100.5957,25.0
+Thailand,Chiang Mai,Chiang Mai,18.79038,98.98468,300.0
+Thailand,Hat Yai,Songkhla,7.00836,100.47668,27.0
+Thailand,Khon Kaen,Khon Kaen,16.4322,102.8236,187.0
+Thailand,Nakhon Ratchasima,Nakhon Ratchasima,14.9738,102.0837,200.0
+Thailand,Nonthaburi,Nonthaburi,7.878978,98.398392,1.0
+Thailand,Pak Kret,Nonthaburi,13.8995,100.5426,8.0
+Thailand,Pattaya,Pattaya,12.9236,100.8825,2.0
+Thailand,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,14.35167,100.57739,34.0
+Thailand,Phuket,Phuket,7.89059,98.3981,529.0
+Thailand,Rangsit,Pathum Thani,13.9913,100.6474,9.0
+Thailand,Ubon Ratchathani,Ubon Ratchathani,15.2448,104.8473,125.0
+United States,Stockton,CA,37.9577,-121.2907,4.0
+United States,Tampa,FL,27.9475,-82.4584,1.0
+United States,Toledo,OH,41.6639,-83.5552,191.0
+United States,Tucson,AZ,32.2217,-110.9264,751.0
+United States,Tulsa,OK,36.1539,-95.9927,213.0
+United States,Virginia Beach,VA,36.8529,-75.97798,3.0
+United States,Washington,DC,38.895,-77.03637,11.0
+United States,West Raleigh,NC,35.78682,-78.6639,122.0
+United States,Wichita,KS,37.69224,-97.3375,402.0
