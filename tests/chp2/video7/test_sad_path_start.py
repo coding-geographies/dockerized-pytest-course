@@ -1,6 +1,6 @@
 import pytest
 
-# from scripts.chp2.video7 import data_processor_start as data_processor
+# from scripts import data_processor
 
 
 @pytest.fixture(scope="function")
@@ -11,8 +11,7 @@ def city_list_location_malformed():
 def test_csv_reader_malformed_data_contents(city_list_location_malformed):
     """
     Sad Path Test
-
-    We will need to wrap the following in the exceptions context manager:
-         data_processor.csv_reader(city_list_location_malformed)
     """
+    # We will need to wrap the following in the exceptions context manager:
+    # data_processor.csv_reader(city_list_location_malformed)
     pass

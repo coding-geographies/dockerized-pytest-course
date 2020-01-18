@@ -1,5 +1,4 @@
 import csv
-import json
 
 
 def csv_reader(file_location):
@@ -14,8 +13,3 @@ def csv_reader(file_location):
                 raise ValueError(str(exp))
 
         return data
-
-
-def json_reader(file_location):
-    with open(file_location) as f:
-        return json.load(f)

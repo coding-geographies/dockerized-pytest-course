@@ -3,16 +3,6 @@ import pytest
 from scripts import data_processor
 
 
-@pytest.fixture(scope="module")
-def city_list_location():
-    return 'tests/resources/cities/clean_map.csv'
-
-
-@pytest.fixture(scope="module")
-def process_data(city_list_location):
-    yield data_processor.csv_reader(city_list_location)
-
-
 def test_csv_reader_header_fields(process_data):
     """
     Happy Path test to make sure the processed data
@@ -41,3 +31,13 @@ def test_csv_reader_data_contents(process_data):
     # Check row types
 
     # Basic data checks
+
+
+@pytest.fixture(scope="module")
+def city_list_location():
+    return 'tests/resources/cities/clean_map.csv'
+
+
+@pytest.fixture(scope="module")
+def process_data(city_list_location):
+    yield data_processor.csv_reader(city_list_location)
