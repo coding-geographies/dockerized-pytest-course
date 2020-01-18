@@ -27,7 +27,19 @@ def process_data(city_list_location):
 
 
 def test_csv_writer(process_data):
-    # TO DO: Update the function to be parametrized with 3 scenarios
+    """
+     TO DO: Update the function to be parametrized with 3 scenarios:
+     ('Andorra', 'Mean', 1641.42),
+     ('Andorra', 'Median', 1538.02),
+     ('Argentina', 'Median', 125.0),
+
+    Hint:
+    - In the final assertion, you will need to use an f-string to inject the
+      arguments into the final string.
+
+    - For example: f'{stat} would inject the string statistic that we use for
+      the csv writer.
+    """
     data = process_data(file_name_or_type="clean_map.csv")
     andorran_median_res = data_aggregator.atitude_stat_per_country(data, 'Andorra', 'Median')
     output_location = StringIO()
