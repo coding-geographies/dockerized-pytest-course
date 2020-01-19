@@ -79,7 +79,15 @@ Try working from the test first as you add this functionality and think of ways
 to parametrize your test.
 
 - Find open source Python projects that use pytest and read their tests. Then
-go to the source code to validate your assumptions
+go to the source code to validate your assumptions. Try doing this repeatedly
+over a few projects that use the pytest framework. Here are a few to get you
+started:
+    - Pytest retains a [list of projects](https://docs.pytest.org/en/latest/projects.html).
+    - [sentry, cross-platform application monitoring, with a focus on error reporting](
+https://github.com/getsentry/sentry/blob/master/tests/sentry/eventstream/kafka/test_consumer.py)
+    - [pdb++, a drop-in replacement for pdb](https://github.com/pdbpp/pdbpp/blob/master/testing/test_pdb.py)
+    - [Astropy,a single core package for Astronomy in Python](https://github.com/astropy/astropy/tree/master/astropy/tests/tests)
+
 
 - Add validation to the delete function in the fitness log class. First,
 refactor your test to account for this.
