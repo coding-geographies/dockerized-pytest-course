@@ -34,6 +34,7 @@ def test_csv_reader_data_contents(process_data):  # loads fixture from conftest.
         assert(isinstance(row['Long'], float))
         assert(isinstance(row['Altitude'], float))
 
+### test asserts
     # Basic data checks
     assert len(data) == 180  # We have collected 180 rows
     assert data[0]['Country'] == 'Andorra'
