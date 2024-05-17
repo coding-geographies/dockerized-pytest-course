@@ -2,7 +2,7 @@ import pytest
 from scripts import data_processor, map_population_update
 
 
-@pytest.fixture(scope="module")
+@pytest.fixture(scope="session")
 def map_data_location():
     return 'tests/resources/cities/clean_map.csv'
 
