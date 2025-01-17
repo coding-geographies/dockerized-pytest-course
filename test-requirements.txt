@@ -1,7 +1,8 @@
-coverage==4.5.2
-pytest==5.2.0
-pytest-cov==2.6.1
-pytest-flakes==2.0.0
-pytest-pep8
+coverage
+pytest
+pytest-cov
+pytest-flakes
+# pytest-pep8
+pytest-pycodestyle
 pytest-pythonpath
 docker
