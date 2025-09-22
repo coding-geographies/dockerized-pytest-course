@@ -37,3 +37,12 @@ def test_median_atitude_per_country(process_data):
     andorran_median_res = data_aggregator.atitude_stat_per_country(data, 'Andorra', 'Median')
 
     assert andorran_median_res == {'Country': 'Andorra', 'Median': 1538.02}
+
+"""
+@pytest.mark.parametrize("",
+[
+    (),
+    (),
+    ()
+])
+"""
